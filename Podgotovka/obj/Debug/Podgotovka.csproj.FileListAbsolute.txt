@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\App.g.cs
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka_MarkupCompile.cache
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka_MarkupCompile.lref
+C:\Users\User\source\repos\Podgotovka\Podgotovka\bin\Debug\Podgotovka.exe.config
+C:\Users\User\source\repos\Podgotovka\Podgotovka\bin\Debug\Podgotovka.exe
+C:\Users\User\source\repos\Podgotovka\Podgotovka\bin\Debug\Podgotovka.pdb
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka.g.resources
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka.Properties.Resources.resources
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka.exe
+C:\Users\User\source\repos\Podgotovka\Podgotovka\obj\Debug\Podgotovka.pdb
